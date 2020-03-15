@@ -15,7 +15,7 @@ try:
     user = args[1].strip('user=')
     pw = args[2].strip('pass=')
 except:
-    print("[!] No username and password was found")
+    print("[!] No username or password was found")
     exit(1)
 
 s = ssh(host='2019shell1.picoctf.com',user=user,password=pw)
