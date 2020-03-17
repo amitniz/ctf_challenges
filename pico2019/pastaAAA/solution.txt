@@ -1,0 +1,2 @@
+solved using online stegnography tool.
+flag: picoCTF{pa$ta_1s_lyf3}
