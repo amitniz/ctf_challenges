@@ -1,0 +1,109 @@
+User Dr. Sheldon Lee Cooper (VIP). has 2000 coins. Account value: 2000.
+ is trying to buy flag CSA
+***ATTENTION - CSA FLAG PURCHASE. RUNNING ADDITIONAL CHECK*** Additional checks result - user is ALLOWED to purchase it
+User Amit (NON-VIP) has 1000 coins. Account value: 1000.
+ is trying to buy flag Suriname
+User Amit (NON-VIP) has 900 coins. Account value: 1000.
+Average value per: color (total 4) - 250.00, stripe (total 5) - 200.00, star (total 1) - 1000.00.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+ is trying to buy flag Togo
+User Amit (NON-VIP) has 800 coins. Account value: 1000.
+Average value per: color (total 8) - 125.00, stripe (total 10) - 100.00, star (total 2) - 500.00.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+ is trying to buy flag Azerbaijan
+User Amit (NON-VIP) has 700 coins. Account value: 1000.
+Average value per: color (total 12) - 83.33, stripe (total 13) - 76.92, star (total 3) - 333.33.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+ is trying to buy flag Liberia
+User Amit (NON-VIP) has 500 coins. Account value: 1000.
+Average value per: color (total 15) - 66.67, stripe (total 24) - 41.67, star (total 4) - 250.00.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+ is trying to buy flag Myanmar
+User Amit (NON-VIP) has 300 coins. Account value: 1000.
+Average value per: color (total 19) - 52.63, stripe (total 27) - 37.04, star (total 5) - 200.00.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+ is trying to buy flag Philippines
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 0 coins. Account value: 1000.
+Average value per: color (total 23) - 43.48, stripe (total 29) - 34.48, star (total 6) - 166.67.
+Owned flags:
+Suriname - The smallest South American country (price: 100)
+Togo - Has French as the official language (price: 100)
+Azerbaijan - The Land of Fire (price: 100)
+Liberia - Has Africa's cleanest cities (price: 200)
+Myanmar - Formerly known as Burma (price: 200)
+Philippines - Named after King Philip II of Spain (price: 300)
+ is trying to sell a flag they don't have. This looks suspicious!
+User Amit (NON-VIP) has 1000 coins. Account value: 1000.
+ is trying to buy flag CSA
+***ATTENTION - CSA FLAG PURCHASE. RUNNING ADDITIONAL CHECK*** Additional checks result - user is NOT ALLOWED to purchase it
+User Amit (NON-VIP) has 1000 coins. Account value: 1000.
+ is trying to buy flag CSA
+***ATTENTION - CSA FLAG PURCHASE. RUNNING ADDITIONAL CHECK*** Additional checks result - user is NOT ALLOWED to purchase it
+User Amit (NON-VIP) has 1000 coins. Account value: 1000.
+ is trying to buy flag CSA
+***ATTENTION - CSA FLAG PURCHASE. RUNNING ADDITIONAL CHECK*** Additional checks result - user is NOT ALLOWED to purchase it
